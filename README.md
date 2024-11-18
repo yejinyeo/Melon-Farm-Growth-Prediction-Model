@@ -1,4 +1,5 @@
 # Melon Farm Growth Prediction Model
+**Tags**: ML / Time Series Analysis
 
 ## Introduction
  스마트팜 시스템에서 수집된 참외 농장의 데이터를 활용하여 참외의 생육 상태와 생산량을 예측하는 모델을 개발한 프로젝트입니다. 머신러닝 모델을 활용하여 다양한 환경 조건에서 참외의 생육 상태와 생산량을 예측할 수 있도록 설계되었습니다.
